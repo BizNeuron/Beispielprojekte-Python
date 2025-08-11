@@ -1,0 +1,1 @@
+Dieses Programm ermöglicht die Erstellung einer einfachen Benutzeroberfläche zur Berechnung des Body-Mass-Index (BMI) einer Person. Die Oberfläche kann wahlweise in einer hellen oder dunklen Variante angezeigt werden.
